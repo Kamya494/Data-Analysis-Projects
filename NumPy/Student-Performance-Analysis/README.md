@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes student performance using **NumPy** and **Pandas**. It focuses on applying core NumPy concepts to solve real data analysis problems.
+This project analyzes student performance on a synthetic dataset using **NumPy** and **Pandas**. It focuses on applying core NumPy concepts to solve real data analysis problems.
 
 ## Concepts Covered
 
