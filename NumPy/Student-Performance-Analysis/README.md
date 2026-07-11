@@ -18,7 +18,7 @@ This project analyzes student performance on a synthetic dataset using **NumPy**
 
 ## Files
 
-- `numpy_DA_project.ipynb` – Jupyter Notebook
+- `numpy_DA_project-2.ipynb` – Jupyter Notebook
 - `student_performance.csv` – Dataset
 
 ## Tools Used
